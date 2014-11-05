@@ -1,0 +1,12 @@
+:NumbersDisable	numbers.txt	/*:NumbersDisable*
+:NumbersEnable	numbers.txt	/*:NumbersEnable*
+:NumbersOnOff	numbers.txt	/*:NumbersOnOff*
+:NumbersToggle	numbers.txt	/*:NumbersToggle*
+g:numbers_enable	numbers.txt	/*g:numbers_enable*
+g:numbers_exclude	numbers.txt	/*g:numbers_exclude*
+numbers	numbers.txt	/*numbers*
+numbers-commands	numbers.txt	/*numbers-commands*
+numbers-configuration	numbers.txt	/*numbers-configuration*
+numbers-credits	numbers.txt	/*numbers-credits*
+numbers-intro	numbers.txt	/*numbers-intro*
+numbers.txt	numbers.txt	/*numbers.txt*
